@@ -127,9 +127,3 @@ This project is free to use for learning and personal projects.
 
 **Krishna Kanhaiya Jha**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-⭐ If you like this project, give it a star on GitHub!
