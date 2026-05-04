@@ -54,14 +54,12 @@ Karma-Shop/
 
 ## 📸 Screenshots
 
-Add your screenshots here:
 
-```markdown
-![Home Page](img/demo1.png)
-![Category Page](img/demo2.png)
-```
+### Homepage / Main View
+![Screenshot 1](Screenshot%202026-05-05%20001010.png)
 
----
+### Additional View
+![Screenshot 2](Screenshot%202026-05-05%20001106.png)
 
 ## ⚙️ Installation & Setup
 
